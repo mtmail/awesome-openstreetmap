@@ -270,6 +270,7 @@ The services in this category allow you to track personal and fitness goals util
 * [OpenStreetMap Community](https://community.openstreetmap.org/) - Official forums hosted by the OpenStreetMap Foundation.
 * [r/openstreetmap](https://www.reddit.com/r/openstreetmap) - Inofficial Reddit forum dedicated to sharing OSM related links and news.
 * [“OpenStreetMap World” Discord](https://discord.gg/openstreetmap) - OSM related instant messaging and voice chat group.
+* [OSM Communities (map)](https://openstreetmap.community/) - Map listing local communities and contact channels.
 
 ## Related lists
 
